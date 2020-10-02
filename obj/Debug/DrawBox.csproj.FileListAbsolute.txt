@@ -1,0 +1,10 @@
+E:\Mycin\C#\Projects\DrawBox\bin\Debug\DrawBox.exe.config
+E:\Mycin\C#\Projects\DrawBox\bin\Debug\DrawBox.exe
+E:\Mycin\C#\Projects\DrawBox\bin\Debug\DrawBox.pdb
+E:\Mycin\C#\Projects\DrawBox\obj\Debug\DrawBox.csprojAssemblyReference.cache
+E:\Mycin\C#\Projects\DrawBox\obj\Debug\DrawBox.Form1.resources
+E:\Mycin\C#\Projects\DrawBox\obj\Debug\DrawBox.Properties.Resources.resources
+E:\Mycin\C#\Projects\DrawBox\obj\Debug\DrawBox.csproj.GenerateResource.cache
+E:\Mycin\C#\Projects\DrawBox\obj\Debug\DrawBox.exe
+E:\Mycin\C#\Projects\DrawBox\obj\Debug\DrawBox.pdb
+E:\Mycin\C#\Projects\DrawBox\obj\Debug\DrawBox.csproj.CoreCompileInputs.cache
